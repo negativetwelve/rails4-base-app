@@ -4,7 +4,7 @@
 
 ### View the Sample Application
 
-[http://rails4.herokuapp.com/](rails4.herokuapp.com)
+http://rails4.herokuapp.com/
 
 ### Setup
 
